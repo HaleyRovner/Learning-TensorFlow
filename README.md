@@ -6,7 +6,7 @@ A beginners guide to learning the background and tools of TensorFlow deep learni
 1. What is machine learning and what is TensorFlow?
 2. The math behind neural nets
 3. How does TensorFlow work?
-Most basic layer perceptron and how does it work
-4. What is a convolutional neural net?
-5. What is a recurrent neural net?
-6. AutoEncoders
+4. Most basic layer perceptron and how does it work
+5. What is a convolutional neural net?
+6. What is a recurrent neural net?
+7. AutoEncoders
